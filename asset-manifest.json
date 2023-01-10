@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/kidtoyshop/static/css/main.7acaea2f.css",
-    "main.js": "/kidtoyshop/static/js/main.07d3183d.js",
+    "main.js": "/kidtoyshop/static/js/main.663c55aa.js",
+    "static/js/134.9192da39.chunk.js": "/kidtoyshop/static/js/134.9192da39.chunk.js",
+    "static/js/106.adc0a3ab.chunk.js": "/kidtoyshop/static/js/106.adc0a3ab.chunk.js",
+    "static/js/597.d4af034a.chunk.js": "/kidtoyshop/static/js/597.d4af034a.chunk.js",
+    "static/js/681.2b828304.chunk.js": "/kidtoyshop/static/js/681.2b828304.chunk.js",
     "index.html": "/kidtoyshop/index.html",
     "main.7acaea2f.css.map": "/kidtoyshop/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/kidtoyshop/static/js/main.07d3183d.js.map"
+    "main.663c55aa.js.map": "/kidtoyshop/static/js/main.663c55aa.js.map",
+    "134.9192da39.chunk.js.map": "/kidtoyshop/static/js/134.9192da39.chunk.js.map",
+    "106.adc0a3ab.chunk.js.map": "/kidtoyshop/static/js/106.adc0a3ab.chunk.js.map",
+    "597.d4af034a.chunk.js.map": "/kidtoyshop/static/js/597.d4af034a.chunk.js.map",
+    "681.2b828304.chunk.js.map": "/kidtoyshop/static/js/681.2b828304.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.663c55aa.js"
   ]
 }
