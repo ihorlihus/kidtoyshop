@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kidtoyshop/static/css/main.7acaea2f.css",
+    "main.js": "/kidtoyshop/static/js/main.07d3183d.js",
+    "index.html": "/kidtoyshop/index.html",
+    "main.7acaea2f.css.map": "/kidtoyshop/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/kidtoyshop/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
