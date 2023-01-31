@@ -19,7 +19,7 @@ export async function getSearchMovies(searchName) {
   return movies;
 }
 
-export async function getTrandMovies() {
+export async function getTrandItems() {
   const responce = await axios.get('trending/movie/day', {
     params: {
       api_key: myKey,

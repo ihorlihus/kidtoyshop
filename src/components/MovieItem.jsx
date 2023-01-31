@@ -1,3 +1,5 @@
+import { Button } from './Button';
+
 export const MovieItem = ({ poster_path, title }) => {
   return (
     <>
@@ -7,6 +9,7 @@ export const MovieItem = ({ poster_path, title }) => {
         width="240"
       />
       <p>{title}</p>
+      <Button>В корзину</Button>
     </>
   );
 };
